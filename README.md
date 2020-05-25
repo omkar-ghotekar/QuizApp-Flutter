@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Quizzler ❓
 
 ## Our Goal
@@ -24,9 +21,14 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 - How to use Dart lists.
 - The difference between var, const and final.
 
-## Code Snippet for Project
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+Created & Maintained By:-
+- Omkar Ghotekar 
+  - [Linkedin](https://www.linkedin.com/in/omkar-ghotekar-2a9a1219b/).
+  
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
